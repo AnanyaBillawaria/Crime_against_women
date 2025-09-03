@@ -2,8 +2,8 @@
 
 Crimes against women in India have risen sharply over the past two decades. From domestic violence and assault to dowry deaths and trafficking, the numbers reveal a troubling and persistent reality. This project analyzes **20 years of official data** to uncover trends, geographic hotspots, and the urgent need for policy interventions.  
 
-📊 **Data Source:** [data.gov.in](https://data.gov.in)  
-🛠 **Visualization Tool:** Power BI  
+**Data Source:** [data.gov.in](https://data.gov.in)  
+**Visualization Tool:** Power BI  
 
 ---
 
