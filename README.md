@@ -42,7 +42,7 @@ Dashboards and visualizations are stored in the `Crime_DataViz/` folder.
 ## Tools & Libraries  
 - Power BI (primary visualization)  
 - Python (for preprocessing)  
-  - pandas, numpy, matplotlib (if replicated programmatically)  
+  - pandas, numpy, matplotlib 
 
 ---
 
