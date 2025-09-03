@@ -1,7 +1,8 @@
 # Crime Against Women in India (2001–2021)  
 
 Crimes against women in India have risen sharply over the past two decades. From domestic violence and assault to dowry deaths and trafficking, the numbers reveal a troubling and persistent reality. This project analyzes **20 years of official data** to uncover trends, geographic hotspots, and the urgent need for policy interventions.  
-
+Full article [here](https://medium.com/@ana.bee/crime-against-women-in-india-49eb20c488ae)
+ 
 **Data Source:** [data.gov.in](https://data.gov.in)  
 **Visualization Tool:** Power BI  
 
