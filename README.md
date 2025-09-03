@@ -18,7 +18,7 @@ Crimes against women in India have risen sharply over the past two decades. From
 ## Methodology  
 1. **Data Collection**  official crime statistics from data.gov.in  
 2. **Data Cleaning & Preparation** structured data for trend analysis  
-3. **Exploratory Analysis**  yearly trends, state-level variations, crime categories  
+3. **Exploratory Analysis**  yearly trends, state level variations, crime categories  
 4. **Visualization**  dashboards and maps created in Power BI for clear insights  
 
 ---
